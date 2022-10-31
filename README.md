@@ -1,4 +1,3 @@
-- https://www.holopin.io/@abhrajit2004
 - 👋 Hi, I’m Abhrajit Gupta
 - 👀 I’m interested in coding and video-editing
 - 🌱 I’m currently learning Information Technology
