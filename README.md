@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img style="height:400px;" src="https://github.com/user-attachments/assets/b8d0498e-fede-4d00-b9ad-4b6ff2e12538" />
 <br />
-[![Discord](https://discord.c99.nl/widget/theme-2/754232205928169472.png)](https://discordapp.com/users/754232205928169472)
+<br />
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abhrajit-gupta/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
