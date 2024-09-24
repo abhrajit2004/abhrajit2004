@@ -3,7 +3,7 @@
 abhrajit2004/abhrajit2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img style="height:400px;" src="https://github.com/user-attachments/assets/b8d0498e-fede-4d00-b9ad-4b6ff2e12538" />
+[![An image of @abhrajit2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhrajit2004)](https://holopin.io/@abhrajit2004)
 <br />
 
 ## 🌐 Socials:
