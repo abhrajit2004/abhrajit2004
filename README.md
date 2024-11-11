@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abhrajit-gupta/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.instagram.com/abhrajit_gupta/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://x.com/abhrajit_gupta" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 
 ## 💻 Tech Stack:
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" alt="React" src="https://skillicons.dev/icons?i=react" /></a>
